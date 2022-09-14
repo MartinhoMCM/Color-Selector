@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/martinho.mussamba/pluralsight-course/Android-Apps-Kotlin-Custom-Views/03/demos/AndroidAppsWithKotlin_CustomViewsStartingCode/app/src/main/res/drawable/ic_color_slider_thumb.xml" value="0.35" />
         <entry key="..\:/Users/martinho.mussamba/pluralsight-course/Android-Apps-Kotlin-Custom-Views/03/demos/AndroidAppsWithKotlin_CustomViewsStartingCode/app/src/main/res/layout/color_selector.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/martinho.mussamba/pluralsight-course/Android-Apps-Kotlin-Custom-Views/03/demos/AndroidAppsWithKotlin_CustomViewsStartingCode/app/src/main/res/layout/content_main.xml" value="0.33" />
         <entry key="..\:/Users/martinho.mussamba/pluralsight-course/Android-Apps-Kotlin-Custom-Views/03/demos/AndroidAppsWithKotlin_CustomViewsStartingCode/app/src/main/res/layout/item_note.xml" value="0.20416666666666666" />
